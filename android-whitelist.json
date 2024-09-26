@@ -3456,7 +3456,7 @@
       ],
       "group": "com\\.google\\.android\\.gms",
       "name": "play-services-recaptcha",
-      "version": "16\\.0\\.0"
+      "version": "17\\.0\\.0"
     },
     {
       "allows_granular_projects": [
