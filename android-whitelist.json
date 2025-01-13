@@ -5189,6 +5189,7 @@
     {
       "allows_granular_projects": [
         "com.mercadolibre.android.everest_canvas",
+        "com.mercadolibre.android:login",
         "com.mercadolibre.android.mercadopago_login",
         "com.mercadolibre.android.mlwebkit",
         "com.mercadolibre.android.nfcpayments",
